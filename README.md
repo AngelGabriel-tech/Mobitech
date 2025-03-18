@@ -6,4 +6,5 @@ An E-commerce website backed up with Azure service
 <body>
   <h1>Creation of database</h1>
   <p> Here is what we have created .......</p>
+  <img src="screenshot.jpeg" alt="This is my image">
 </body>
